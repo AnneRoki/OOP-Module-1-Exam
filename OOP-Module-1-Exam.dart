@@ -1,4 +1,4 @@
-//this class show encapsulation because  i houses all the necessary properties of the class player to be used
+//this class show encapsulation because  it houses all the necessary properties of the class player to be used and the variables in it cannot be directly called or changed
 class Player{
   bool damagedealer=true;
   bool healer=false;
